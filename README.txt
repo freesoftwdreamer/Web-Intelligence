@@ -1,4 +1,3 @@
-# pip freeze > requirements.txt
 python3 -m venv hackthon
 source hackthon/bin/activate
 pip -r install requirements.txt
