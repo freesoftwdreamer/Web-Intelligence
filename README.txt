@@ -5,10 +5,10 @@ pip -r install requirements.txt
 # First extract the four datasets using the program Divide.py
 
 # second run GETRIDOFBARBERS_DEDATASET.py GETRIDOFBARBERS_ATDATASET.py GETRIDOFBARBERS_NLDATASET.py GETRIDOFBARBERS_NLDATASET.py
-# Fianlly run the four UPDATE..DATA.py
+# Finally run the four UPDATE..DATA.py
 you have to use mpi -np (the number of your cpus) python3 GETRIDOFBARBERS_DEDATASET.py
 and the four UPDATE..DATA.py
-# we tryed to use ParallelProbabilityDE.py etc.. to inspect html code but apart from hotels didn't work always well. That is why we asked llama 3.1 to help us using llama-server and sending  a compressed html with
+# We tried to use ParallelProbabilityDE.py etc.. to inspect html code but apart from hotels didn't work always well. That is why we asked llama 3.1 to help us using llama-server and sending  a compressed html with
 your questions. The final program is SerialTestAI4.py
 We used two tesla P40 for a total of roughly 42 gb for the 8 billions parameters version.
 Enjoy our solution!
