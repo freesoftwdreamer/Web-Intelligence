@@ -30,7 +30,8 @@ translations = {
     "online shop": {"German": "Onlineshop", "Dutch": "webwinkel", "Polish": "sklep internetowy"},
     "booking": {"German": "Buchung", "Dutch": "boeking", "Polish": "rezerwacja"},
     "room": {"German": "Zimmer", "Dutch": "kamer", "Polish": "pokój"},
-    "ticket": {"German": "Ticket", "Dutch": "ticket", "Polish": "bilet"}
+    "ticket": {"German": "Ticket", "Dutch": "ticket", "Polish": "bilet"},
+    "insurance": {"German": "Versicherung", "Dutch": "verzekering", "Polish": "ubezpieczenie"}
 }
 
 # Load URLs from a CSV file
