@@ -44,5 +44,5 @@ This script is designed to crawl a list of URLs, analyze the content for eCommer
 1. **Clone the Repository**:
 
    
-   https://github.com/freesoftwdreamer/Web-Intelligence-/Web-Intelligence-.git
+   https://github.com/freesoftwdreamer/Web-Intelligence/Web-Intelligence.git
    cd Web-Intelligence-
