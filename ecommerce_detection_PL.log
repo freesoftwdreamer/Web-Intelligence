@@ -1,0 +1,69 @@
+2024-11-13 17:49:20,226 - INFO - Rank 9 is gathering results.
+2024-11-13 17:49:20,226 - INFO - Rank 1 is gathering results.
+2024-11-13 17:49:20,226 - INFO - Rank 11 is gathering results.
+2024-11-13 17:49:20,226 - INFO - Rank 3 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 16 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 15 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 7 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 6 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 4 is gathering results.
+2024-11-13 17:49:20,227 - INFO - Rank 10 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 5 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 2 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 14 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 8 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 12 is gathering results.
+2024-11-13 17:49:20,228 - INFO - Rank 13 is gathering results.
+2024-11-13 17:49:20,233 - INFO - Rank 17 is gathering results.
+2024-11-13 17:49:20,233 - INFO - Rank 0 is gathering results.
+2024-11-13 17:49:20,233 - INFO - Rank 18 is gathering results.
+2024-11-13 17:49:20,233 - INFO - Rank 19 is gathering results.
+2024-11-13 17:49:20,233 - INFO - Rank 1 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 3 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 4 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 2 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 6 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 7 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 5 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 8 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 1 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 9 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 3 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 10 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 11 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 6 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 7 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 16 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 4 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 15 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 12 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 14 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 13 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 2 is gathering original indices.
+2024-11-13 17:49:20,233 - INFO - Rank 18 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,233 - INFO - Rank 5 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 17 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,234 - INFO - Rank 19 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,234 - INFO - Rank 9 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 11 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 10 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 15 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 17 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 19 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 18 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 14 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 16 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 13 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 12 is gathering original indices.
+2024-11-13 17:49:20,234 - INFO - Rank 8 is gathering original indices.
+2024-11-13 17:49:20,236 - INFO - Rank 0 is gathering non-ecommerce URLs.
+2024-11-13 17:49:20,237 - INFO - Rank 0 is gathering original indices.
+2024-11-13 17:49:20,237 - INFO - Flattening results.
+2024-11-13 17:49:20,239 - INFO - Ensuring unique results.
+2024-11-13 17:49:20,241 - INFO - Saving e-commerce detection results.
+2024-11-13 17:49:20,244 - INFO - Combining non-e-commerce URLs.
+2024-11-13 17:49:20,245 - INFO - Saving non-e-commerce URLs.
+2024-11-13 17:49:20,246 - INFO - Adding E-commerce Indicator column.
+2024-11-13 17:49:20,247 - INFO - Updating E-commerce Indicator for non-e-commerce URLs.
+2024-11-13 17:49:20,249 - INFO - Updating E-commerce Indicator for error URLs.
+2024-11-13 17:49:20,251 - INFO - Non-e-commerce URLs saved to 'non_ecommerce_urls_pl.csv'.

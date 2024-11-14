@@ -1,0 +1,568 @@
+2024-11-13 15:53:31,129 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 15:53:33,399 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 15:53:34,767 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 15:53:38,904 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 15:53:39,059 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 15:53:39,417 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='www.bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70baf8a365c0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 15:53:40,218 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 15:53:40,922 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 15:53:43,173 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 15:53:43,369 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 15:53:45,079 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 15:53:47,072 - ERROR - Error fetching https://www.primark.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 15:53:47,847 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 15:53:48,304 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 15:53:48,734 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 15:53:57,702 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 15:53:59,288 - ERROR - Error fetching http://www.deprince.nl: 403 Client Error: Forbidden for url: https://www.deprince.nl:443/
+2024-11-13 15:54:00,629 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 15:54:00,689 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 15:54:01,240 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 15:54:04,113 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 15:54:04,931 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 15:54:05,840 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 15:54:08,630 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 15:54:10,116 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 15:54:11,851 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 15:54:14,271 - ERROR - Error fetching https://www.menkehorst.nl: 403 Client Error: Forbidden for url: https://www.menkehorst.nl/
+2024-11-13 15:54:14,786 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 15:54:15,382 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 15:54:15,501 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 15:54:17,163 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 15:54:18,351 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 15:54:18,374 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 15:54:18,838 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 15:54:18,858 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 15:54:19,753 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 15:54:20,030 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 15:54:20,500 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:54:20,780 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:54:23,112 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 15:54:28,724 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 15:54:31,386 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 15:54:32,035 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 15:54:32,227 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 15:54:33,581 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 15:54:33,788 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 15:54:35,060 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 15:54:37,081 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 15:54:37,974 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 15:54:38,340 - ERROR - Error fetching http://www.mondzorgkorreweg.nl: HTTPSConnectionPool(host='www.mondzorgkorreweg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:54:40,052 - ERROR - Error fetching https://www.hairforce-groningen.nl: 403 Client Error: Forbidden for url: https://hairandlooks.nl/vestigingen/kapper-groningen/centrum/
+2024-11-13 15:54:48,887 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 15:55:32,783 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 15:56:17,711 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 15:56:19,655 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 15:56:22,843 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 15:56:24,289 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 15:56:25,160 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 15:56:29,017 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e698dfc6d10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 15:56:29,875 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 15:56:30,903 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 15:56:32,931 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 15:56:40,460 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 15:56:46,096 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 15:57:02,659 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 15:57:12,684 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 15:57:14,079 - ERROR - Error fetching https://www.truckwash1group.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 15:57:14,079 - ERROR - Error fetching http://www.montana-snowcenter.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 15:57:20,643 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 15:57:22,697 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 15:57:25,812 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7b47bfeabe50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 15:57:41,646 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 15:57:51,985 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 15:58:09,176 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 15:58:19,746 - ERROR - Error fetching http://www.verfgroothandel-kvm.nl: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-11-13 15:58:19,805 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 15:58:32,069 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 15:58:36,841 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 15:58:53,102 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 15:58:59,673 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 15:59:03,578 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 15:59:11,985 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 15:59:13,411 - ERROR - Error fetching https://www.menkehorst.nl: 403 Client Error: Forbidden for url: https://www.menkehorst.nl/
+2024-11-13 15:59:13,717 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 15:59:18,273 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 15:59:18,273 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 15:59:18,719 - ERROR - Error fetching http://www.bsgw.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 15:59:25,353 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 15:59:32,121 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 15:59:32,870 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 15:59:41,908 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 15:59:42,539 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 15:59:43,233 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 15:59:43,352 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 15:59:43,600 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 15:59:43,703 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:59:44,343 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:59:45,932 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 15:59:47,794 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 15:59:55,106 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 15:59:56,754 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7308ec12beb0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:00:02,506 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:00:04,262 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7308e6d45930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:00:09,163 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:00:09,293 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 16:00:13,283 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:00:15,244 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 16:00:15,650 - ERROR - Error fetching http://www.dickhofrijwielen.nl: HTTPSConnectionPool(host='www.dickhofrijwielen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f73d38ebc10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:00:21,466 - ERROR - Error fetching http://www.sultan.restaurant: HTTPSConnectionPool(host='www.sultan.restaurant', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:00:25,574 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:00:28,784 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:01:17,471 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 16:01:19,363 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 16:01:21,808 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 16:01:22,473 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 16:01:26,227 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7d9d017e50f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:01:26,539 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 16:01:26,772 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 16:01:26,977 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 16:01:28,389 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:01:29,499 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 16:01:30,866 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 16:01:33,186 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 16:01:35,430 - ERROR - Error fetching https://www.primark.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:01:36,314 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 16:01:36,834 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x77e20b16ca30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:01:39,199 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 16:01:42,007 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 16:01:42,920 - ERROR - Error fetching http://www.deprince.nl: 403 Client Error: Forbidden for url: https://www.deprince.nl:443/
+2024-11-13 16:01:44,104 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 16:01:49,082 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:01:49,661 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 16:01:50,605 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 16:01:50,787 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 16:01:50,883 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 16:01:52,116 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 16:01:54,710 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 16:01:56,086 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 16:01:56,548 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 16:01:58,094 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 16:01:58,508 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 16:01:58,613 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 16:02:03,715 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 16:02:04,335 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 16:02:05,446 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 16:02:05,682 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 16:02:06,032 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:02:06,267 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 16:02:06,878 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 16:02:07,210 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 16:02:11,091 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 16:02:15,209 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 16:02:16,739 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 16:02:17,644 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 16:02:18,664 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:02:18,862 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:02:19,174 - ERROR - Error fetching http://www.dickhofrijwielen.nl: HTTPSConnectionPool(host='www.dickhofrijwielen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f82978bd060>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:02:19,443 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:02:19,830 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:02:21,254 - ERROR - Error fetching http://www.sultan.restaurant: HTTPSConnectionPool(host='www.sultan.restaurant', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:02:22,043 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 16:02:23,098 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 16:02:25,398 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70bb2178c0a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:02:26,848 - ERROR - Error fetching http://www.mondzorgkorreweg.nl: HTTPSConnectionPool(host='www.mondzorgkorreweg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:02:27,106 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70bb2172f280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:02:29,653 - ERROR - Error fetching https://www.hairforce-groningen.nl: 403 Client Error: Forbidden for url: https://hairandlooks.nl/vestigingen/kapper-groningen/centrum/
+2024-11-13 16:02:37,859 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:02:38,691 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:03:45,495 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 16:03:48,287 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 16:03:50,777 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 16:03:52,907 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 16:03:53,476 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7eb25f5e1240>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:03:53,615 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 16:03:56,705 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:03:57,091 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 16:03:59,859 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 16:04:00,160 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 16:04:00,909 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 16:04:01,984 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 16:04:02,948 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 16:04:05,790 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x71e1dd16c670>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:04:06,118 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 16:04:10,119 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 16:04:10,316 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 16:04:12,131 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 16:04:13,619 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 16:04:13,679 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 16:04:14,806 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 16:04:16,346 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:04:17,458 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 16:04:20,407 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 16:04:21,794 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 16:04:22,598 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 16:04:22,631 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 16:04:22,936 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 16:04:23,831 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 16:04:24,455 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 16:04:24,920 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 16:04:27,954 - ERROR - Error fetching https://www.mixmarkt.eu: HTTPSConnectionPool(host='www.mixmarkt.eu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e9b2318c220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:04:29,698 - ERROR - Error fetching https://www.menkehorst.nl: 403 Client Error: Forbidden for url: https://www.menkehorst.nl/
+2024-11-13 16:04:33,551 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 16:04:33,808 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 16:04:34,110 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:04:34,358 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 16:04:34,704 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 16:04:34,806 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 16:04:36,406 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 16:04:37,921 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:04:38,358 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 16:04:38,839 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:04:42,181 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:04:42,879 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x79444843e080>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:04:43,963 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7944499f0ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:04:45,306 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 16:04:45,982 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 16:05:00,788 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:05:02,805 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:05:39,941 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 16:05:42,887 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 16:05:45,964 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 16:05:46,477 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 16:05:48,392 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 16:05:50,467 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x768104b391b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:05:50,641 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 16:05:50,709 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 16:05:50,729 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:05:51,775 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 16:05:52,735 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 16:05:53,080 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 16:05:53,464 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 16:05:56,472 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70e383f51c60>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:05:58,925 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 16:05:59,170 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 16:06:03,914 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 16:06:05,217 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 16:06:05,230 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 16:06:05,391 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 16:06:07,591 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 16:06:11,118 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:06:11,257 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 16:06:12,376 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 16:06:12,461 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 16:06:14,366 - ERROR - Error fetching http://www.verfgroothandel-kvm.nl: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-11-13 16:06:14,597 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 16:06:17,735 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 16:06:17,744 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 16:06:18,200 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 16:06:18,875 - ERROR - Error fetching https://www.menkehorst.nl: 403 Client Error: Forbidden for url: https://www.menkehorst.nl/
+2024-11-13 16:06:20,699 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 16:06:23,269 - ERROR - Error fetching https://www.mixmarkt.eu: HTTPSConnectionPool(host='www.mixmarkt.eu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed25af4de10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:06:24,679 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 16:06:25,025 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 16:06:27,111 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 16:06:27,956 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 16:06:28,217 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 16:06:28,340 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 16:06:28,537 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:06:28,832 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 16:06:32,119 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 16:06:33,177 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 16:06:34,527 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7362dcbcbe80>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:06:36,210 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 16:06:36,215 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7362dcbca2c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:06:37,749 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:06:38,494 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:06:38,804 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 16:06:38,834 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:06:39,060 - ERROR - Error fetching http://www.dickhofrijwielen.nl: HTTPSConnectionPool(host='www.dickhofrijwielen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7647f1f088e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:06:39,520 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 16:06:41,013 - ERROR - Error fetching http://www.sultan.restaurant: HTTPSConnectionPool(host='www.sultan.restaurant', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:06:42,355 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:06:52,718 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:06:55,368 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:07:39,096 - ERROR - Error fetching https://www.kapsalon-tuinenga.nl: 504 Server Error: Gateway Time-out for url: https://www.kapsalon-tuinenga.nl/
+2024-11-13 16:08:44,452 - ERROR - Error fetching https://www.muntstad.nl: HTTPSConnectionPool(host='www.muntstad.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e55873552d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:20:59,962 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 16:21:01,081 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 16:21:01,793 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 16:21:01,820 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 16:21:02,355 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7c621815f5b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:21:03,138 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 16:21:06,407 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:21:08,317 - ERROR - Error fetching https://www.primark.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:21:08,448 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 16:21:08,815 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 16:21:09,985 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 16:21:10,173 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 16:21:11,317 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 16:21:11,670 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd980b4ab00>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:21:13,353 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 16:21:14,216 - ERROR - Error fetching http://www.deprince.nl: 403 Client Error: Forbidden for url: https://www.deprince.nl:443/
+2024-11-13 16:21:14,836 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 16:21:15,322 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 16:21:18,381 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 16:21:19,543 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 16:21:20,115 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 16:21:20,872 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 16:21:23,703 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:21:24,757 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 16:21:25,052 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 16:21:25,396 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 16:21:27,381 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 16:21:28,598 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 16:21:32,977 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 16:21:33,923 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 16:21:36,326 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 16:21:36,526 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 16:21:36,858 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 16:21:37,161 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:21:37,444 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 16:21:39,193 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 16:21:39,491 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 16:21:40,357 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:21:40,641 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:21:41,858 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x76bdba3493f0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:21:41,878 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:21:42,909 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x76bdba75b280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:21:44,795 - INFO - Rank 8 is gathering results.
+2024-11-13 16:21:45,554 - INFO - Rank 3 is gathering results.
+2024-11-13 16:21:46,554 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 16:21:46,702 - INFO - Rank 4 is gathering results.
+2024-11-13 16:21:46,769 - INFO - Rank 1 is gathering results.
+2024-11-13 16:21:48,147 - ERROR - Error fetching http://www.polatbeauty.nl: 504 Server Error: Connection Timed Out for url: http://www.polatbeauty.nl/
+2024-11-13 16:21:48,790 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:21:49,165 - ERROR - Error fetching http://www.mondzorgkorreweg.nl: HTTPSConnectionPool(host='www.mondzorgkorreweg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:21:49,371 - ERROR - Error fetching http://www.dickhofrijwielen.nl: HTTPSConnectionPool(host='www.dickhofrijwielen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc061200910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:21:49,797 - INFO - Rank 0 is gathering results.
+2024-11-13 16:21:49,798 - INFO - Rank 1 is gathering non-ecommerce URLs.
+2024-11-13 16:21:49,798 - INFO - Rank 3 is gathering non-ecommerce URLs.
+2024-11-13 16:21:49,798 - INFO - Rank 1 is gathering original indices.
+2024-11-13 16:21:49,798 - INFO - Rank 3 is gathering original indices.
+2024-11-13 16:21:50,406 - INFO - Rank 16 is gathering results.
+2024-11-13 16:21:50,837 - INFO - Rank 9 is gathering results.
+2024-11-13 16:21:50,838 - INFO - Rank 9 is gathering non-ecommerce URLs.
+2024-11-13 16:21:50,838 - INFO - Rank 9 is gathering original indices.
+2024-11-13 16:21:51,336 - ERROR - Error fetching http://www.sultan.restaurant: HTTPSConnectionPool(host='www.sultan.restaurant', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:21:51,728 - INFO - Rank 7 is gathering results.
+2024-11-13 16:21:51,729 - INFO - Rank 7 is gathering non-ecommerce URLs.
+2024-11-13 16:21:51,729 - INFO - Rank 7 is gathering original indices.
+2024-11-13 16:21:51,772 - ERROR - Error fetching https://www.hairforce-groningen.nl: 403 Client Error: Forbidden for url: https://hairandlooks.nl/vestigingen/kapper-groningen/centrum/
+2024-11-13 16:21:52,827 - INFO - Rank 5 is gathering results.
+2024-11-13 16:21:52,828 - INFO - Rank 5 is gathering non-ecommerce URLs.
+2024-11-13 16:21:52,828 - INFO - Rank 5 is gathering original indices.
+2024-11-13 16:21:53,242 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 16:21:54,084 - INFO - Rank 2 is gathering results.
+2024-11-13 16:21:54,084 - INFO - Rank 2 is gathering non-ecommerce URLs.
+2024-11-13 16:21:54,084 - INFO - Rank 2 is gathering original indices.
+2024-11-13 16:21:57,176 - INFO - Rank 14 is gathering results.
+2024-11-13 16:21:57,708 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 16:21:58,151 - INFO - Rank 13 is gathering results.
+2024-11-13 16:21:58,151 - INFO - Rank 13 is gathering non-ecommerce URLs.
+2024-11-13 16:21:58,152 - INFO - Rank 13 is gathering original indices.
+2024-11-13 16:21:59,974 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 16:22:00,327 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 16:22:00,538 - INFO - Rank 19 is gathering results.
+2024-11-13 16:22:00,539 - INFO - Rank 19 is gathering non-ecommerce URLs.
+2024-11-13 16:22:00,539 - INFO - Rank 19 is gathering original indices.
+2024-11-13 16:22:03,469 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:22:04,414 - INFO - Rank 18 is gathering results.
+2024-11-13 16:22:04,415 - INFO - Rank 18 is gathering non-ecommerce URLs.
+2024-11-13 16:22:04,415 - INFO - Rank 18 is gathering original indices.
+2024-11-13 16:22:08,020 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:22:12,491 - INFO - Rank 15 is gathering results.
+2024-11-13 16:22:12,492 - INFO - Rank 15 is gathering non-ecommerce URLs.
+2024-11-13 16:22:12,492 - INFO - Rank 15 is gathering original indices.
+2024-11-13 16:22:12,492 - INFO - Rank 14 is gathering non-ecommerce URLs.
+2024-11-13 16:22:12,493 - INFO - Rank 14 is gathering original indices.
+2024-11-13 16:22:19,146 - INFO - Rank 17 is gathering results.
+2024-11-13 16:22:19,147 - INFO - Rank 17 is gathering non-ecommerce URLs.
+2024-11-13 16:22:19,147 - INFO - Rank 17 is gathering original indices.
+2024-11-13 16:22:19,147 - INFO - Rank 16 is gathering non-ecommerce URLs.
+2024-11-13 16:22:19,147 - INFO - Rank 16 is gathering original indices.
+2024-11-13 16:22:23,866 - INFO - Rank 11 is gathering results.
+2024-11-13 16:22:23,867 - INFO - Rank 11 is gathering non-ecommerce URLs.
+2024-11-13 16:22:23,867 - INFO - Rank 11 is gathering original indices.
+2024-11-13 16:22:36,863 - ERROR - Error fetching https://www.automaticsignal.nl: 504 Server Error: Gateway Time-out for url: https://www.automaticsignal.nl/
+2024-11-13 16:22:38,875 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 16:23:06,322 - INFO - Rank 10 is gathering results.
+2024-11-13 16:23:06,322 - INFO - Rank 10 is gathering non-ecommerce URLs.
+2024-11-13 16:23:06,322 - INFO - Rank 10 is gathering original indices.
+2024-11-13 16:23:43,029 - ERROR - Error fetching http://www.boekhandelpraamstra.nl: 403 Client Error: Forbidden for url: https://libris.nl/boekhandelpraamstra
+2024-11-13 16:23:44,747 - ERROR - Error fetching http://www.baantwente.nl: 403 Client Error: Forbidden for url: https://www.baantwente.nl/
+2024-11-13 16:23:46,404 - ERROR - Error fetching https://www.yesdelft.com: 403 Client Error: Forbidden for url: https://www.yesdelft.com/
+2024-11-13 16:23:46,684 - ERROR - Error fetching http://www.fysiomed.org: HTTPSConnectionPool(host='www.fysiomed.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fysiomed.org'. (_ssl.c:1007)")))
+2024-11-13 16:23:47,638 - ERROR - Error fetching https://bijlstra-installaties.nl: HTTPSConnectionPool(host='bijlstra-installaties.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f816cf530a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:23:49,658 - ERROR - Error fetching https://kapsalon-lord.business.site: 404 Client Error: Not Found for url: https://kapsalon-lord.business.site/
+2024-11-13 16:23:51,772 - ERROR - Error fetching http://www.vanlaarhovenbmw.nl: 403 Client Error: Forbidden for url: https://www.vanlaarhovenbmw.nl/
+2024-11-13 16:23:52,733 - ERROR - Error fetching http://www.tilburg.hoekstraenpartners.nl: HTTPSConnectionPool(host='www.tilburg.hoekstraenpartners.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tilburg.hoekstraenpartners.nl'. (_ssl.c:1007)")))
+2024-11-13 16:23:52,838 - ERROR - Error fetching https://find.shell.com: HTTPSConnectionPool(host='find.shell.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:23:53,083 - ERROR - Error fetching https://www.primark.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:23:53,913 - ERROR - Error fetching http://www.campingdeoldenhof.nl: 500 Server Error: Internal Server Error for url: https://www.campingdeoldenhof.nl/
+2024-11-13 16:23:54,153 - ERROR - Error fetching https://www.countus.nl: 403 Client Error: Forbidden for url: https://www.countus.nl/
+2024-11-13 16:23:54,249 - ERROR - Error fetching https://www.prestonpalace.nl: 403 Client Error: Forbidden for url: https://www.prestonpalace.nl/
+2024-11-13 16:23:54,687 - ERROR - Error fetching https://allianceautomotivegroupbenelux.com: 403 Client Error: Forbidden for url: https://allianceautomotivegroupbenelux.com/
+2024-11-13 16:23:57,379 - ERROR - Error fetching http://www.deprince.nl: 403 Client Error: Forbidden for url: https://www.deprince.nl:443/
+2024-11-13 16:23:58,991 - ERROR - Error fetching https://www.melia.com: 403 Client Error: Forbidden for url: https://www.melia.com/
+2024-11-13 16:23:59,492 - ERROR - Error fetching https://www.figi.nl: HTTPSConnectionPool(host='www.figi.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x729647751c00>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:24:01,493 - ERROR - Error fetching https://leeuwarden.goldencasinonl.com: 403 Client Error: Forbidden for url: https://leeuwarden.goldencasinonl.com/
+2024-11-13 16:24:02,756 - ERROR - Error fetching http://ctm.umcg.nl: 403 Client Error: Forbidden for url: https://www.umcg.nl/-/afdeling/ctm
+2024-11-13 16:24:03,043 - ERROR - Error fetching https://www.huiskes-kokkeler.nl: 403 Client Error: Forbidden for url: https://www.huiskes-kokkeler.nl/
+2024-11-13 16:24:05,146 - ERROR - Error fetching https://barbershop-knokke.business.site: 404 Client Error: Not Found for url: https://barbershop-knokke.business.site/
+2024-11-13 16:24:06,156 - ERROR - Error fetching https://www.palacecasinos.nl: HTTPSConnectionPool(host='www.palacecasinos.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:24:06,803 - ERROR - Error fetching https://groningen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://groningen.goldencasinonl.com/
+2024-11-13 16:24:07,228 - ERROR - Error fetching https://www.wazoriool.nl: 403 Client Error: Forbidden for url: https://www.wazoriool.nl/
+2024-11-13 16:24:08,807 - ERROR - Error fetching https://booking.appointy.com: 403 Client Error: Forbidden for url: https://booking.appointy.com/
+2024-11-13 16:24:12,383 - ERROR - Error fetching https://www.ecostay.nl: 403 Client Error: Forbidden for url: https://www.ecostay.nl/
+2024-11-13 16:24:12,563 - ERROR - Error fetching http://www.motoport.nl: 403 Client Error: Forbidden for url: https://www.motoport.nl/
+2024-11-13 16:24:12,610 - ERROR - Error fetching https://www.century.nl: 403 Client Error: Forbidden for url: https://www.century.nl/
+2024-11-13 16:24:13,052 - ERROR - Error fetching https://www.thenorthface.nl: 403 Client Error: Forbidden for url: https://www.thenorthface.nl/
+2024-11-13 16:24:14,821 - ERROR - Error fetching https://www.scheltema.nl: 403 Client Error: Forbidden for url: https://www.scheltema.nl/
+2024-11-13 16:24:36,837 - ERROR - Error fetching https://www.arcadis.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:24:47,034 - ERROR - Error fetching http://www.eemlandhoeve.nl: 403 Client Error: Forbidden for url: https://www.eemlandhoeve.nl/
+2024-11-13 16:25:06,256 - ERROR - Error fetching https://www.mauritshuis.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:25:06,270 - ERROR - Error fetching https://www.strandhotelhaamstede.nl: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-11-13 16:25:22,364 - ERROR - Error fetching http://happyduck.nl: 403 Client Error: Forbidden for url: http://happyduck.nl/
+2024-11-13 16:25:34,726 - ERROR - Error fetching https://www.hedinautomotive.nl: 403 Client Error: Forbidden for url: https://www.hedinautomotive.nl/
+2024-11-13 16:25:35,320 - ERROR - Error fetching https://www.bourguignon.nl: 403 Client Error: Forbidden for url: https://www.bourguignon.nl/
+2024-11-13 16:25:42,497 - ERROR - Error fetching https://www.menkehorst.nl: 403 Client Error: Forbidden for url: https://www.menkehorst.nl/
+2024-11-13 16:25:42,518 - ERROR - Error fetching https://notariaatverstegen.com: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:25:42,533 - ERROR - Error fetching http://www.deballentent.nl: 403 Client Error: Forbidden for url: https://www.deballentent.nl/
+2024-11-13 16:25:46,554 - ERROR - Error fetching http://www.ordina.com: 404 Client Error: Not Found for url: http://www.ordina.com/
+2024-11-13 16:25:56,225 - ERROR - Error fetching http://www.bsgw.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:25:57,646 - ERROR - Error fetching http://www.dewoestewieven.nl: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-13 16:26:06,374 - ERROR - Error fetching https://terneuzen.goldencasinonl.com: 403 Client Error: Forbidden for url: https://terneuzen.goldencasinonl.com/
+2024-11-13 16:26:22,583 - ERROR - Error fetching https://www.bosschebollen.nl: HTTPSConnectionPool(host='www.bosschebollen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x79c778b14f40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2024-11-13 16:26:22,931 - ERROR - Error fetching https://www.expert.nl: 403 Client Error: Forbidden for url: https://www.expert.nl/
+2024-11-13 16:26:24,206 - ERROR - Error fetching https://www.stella.nl: 403 Client Error: Forbidden for url: https://www.stella.nl/
+2024-11-13 16:26:25,053 - ERROR - Error fetching http://vanwonderenstroopwafels.nl: HTTPSConnectionPool(host='vanwonderenstroopwafels.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vanwonderenstroopwafels.nl'. (_ssl.c:1007)")))
+2024-11-13 16:26:25,299 - ERROR - Error fetching http://www.aab-technics.nl: HTTPSConnectionPool(host='www.aab-technics.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:26:25,432 - ERROR - Error fetching https://www.kenbri.nl: HTTPSConnectionPool(host='www.kenbri.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x79c778f57220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:26:26,134 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 16:26:29,750 - INFO - Rank 9 is gathering results.
+2024-11-13 16:26:30,484 - ERROR - Error fetching http://www.wardenburg.nl: HTTPSConnectionPool(host='www.wardenburg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2024-11-13 16:26:31,995 - ERROR - Error fetching https://www.afium.nl: 403 Client Error: Forbidden for url: https://www.afium.nl/
+2024-11-13 16:26:34,580 - ERROR - Error fetching http://www.konijnendijkmode.nl: 403 Client Error: Access denied for url: http://www.konijnendijkmode.nl/
+2024-11-13 16:26:35,323 - ERROR - Error fetching https://www.coop.nl: 403 Client Error: Forbidden for url: https://www.coop.nl/
+2024-11-13 16:26:35,809 - ERROR - Error fetching http://www.mondzorgkorreweg.nl: HTTPSConnectionPool(host='www.mondzorgkorreweg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:26:43,478 - INFO - Rank 1 is gathering results.
+2024-11-13 16:26:45,592 - ERROR - Error fetching https://www.nozemcitybarbers.nl: HTTPSConnectionPool(host='www.nozemcitybarbers.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))
+2024-11-13 16:26:47,201 - ERROR - Error fetching https://www.hairforce-groningen.nl: 403 Client Error: Forbidden for url: https://hairandlooks.nl/vestigingen/kapper-groningen/centrum/
+2024-11-13 16:26:48,066 - INFO - Rank 3 is gathering results.
+2024-11-13 16:26:51,717 - ERROR - Error fetching http://www.dickhofrijwielen.nl: HTTPSConnectionPool(host='www.dickhofrijwielen.nl', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4186b108e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 16:26:53,600 - INFO - Rank 0 is gathering results.
+2024-11-13 16:26:53,601 - INFO - Rank 9 is gathering non-ecommerce URLs.
+2024-11-13 16:26:53,601 - INFO - Rank 3 is gathering non-ecommerce URLs.
+2024-11-13 16:26:53,601 - INFO - Rank 1 is gathering non-ecommerce URLs.
+2024-11-13 16:26:53,601 - INFO - Rank 1 is gathering original indices.
+2024-11-13 16:26:53,601 - INFO - Rank 3 is gathering original indices.
+2024-11-13 16:26:53,601 - INFO - Rank 9 is gathering original indices.
+2024-11-13 16:26:55,600 - ERROR - Error fetching http://www.mertens-avr.nl: 403 Client Error: Forbidden for url: https://www.mertens-avr.nl/
+2024-11-13 16:26:58,405 - INFO - Rank 2 is gathering results.
+2024-11-13 16:26:58,405 - INFO - Rank 2 is gathering non-ecommerce URLs.
+2024-11-13 16:26:58,406 - INFO - Rank 2 is gathering original indices.
+2024-11-13 16:27:00,345 - INFO - Rank 4 is gathering results.
+2024-11-13 16:27:00,722 - ERROR - Error fetching http://www.sultan.restaurant: HTTPSConnectionPool(host='www.sultan.restaurant', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 16:27:01,199 - INFO - Rank 8 is gathering results.
+2024-11-13 16:27:03,289 - INFO - Rank 7 is gathering results.
+2024-11-13 16:27:03,290 - INFO - Rank 7 is gathering non-ecommerce URLs.
+2024-11-13 16:27:03,290 - INFO - Rank 7 is gathering original indices.
+2024-11-13 16:27:09,813 - INFO - Rank 16 is gathering results.
+2024-11-13 16:27:18,804 - INFO - Rank 17 is gathering results.
+2024-11-13 16:27:18,804 - INFO - Rank 17 is gathering non-ecommerce URLs.
+2024-11-13 16:27:18,804 - INFO - Rank 17 is gathering original indices.
+2024-11-13 16:27:20,473 - ERROR - Error fetching http://www.wealer.nl: 403 Client Error: Forbidden for url: https://www.wealer.nl/
+2024-11-13 16:27:22,402 - INFO - Rank 13 is gathering results.
+2024-11-13 16:27:22,402 - INFO - Rank 13 is gathering non-ecommerce URLs.
+2024-11-13 16:27:22,403 - INFO - Rank 13 is gathering original indices.
+2024-11-13 16:27:24,364 - ERROR - Error fetching http://www.thermae.nl: 403 Client Error: Forbidden for url: https://www.thermae.nl/
+2024-11-13 16:27:25,245 - INFO - Rank 6 is gathering results.
+2024-11-13 16:27:25,245 - INFO - Rank 6 is gathering non-ecommerce URLs.
+2024-11-13 16:27:25,245 - INFO - Rank 6 is gathering original indices.
+2024-11-13 16:27:26,028 - INFO - Rank 10 is gathering results.
+2024-11-13 16:27:27,030 - INFO - Rank 5 is gathering results.
+2024-11-13 16:27:27,031 - INFO - Rank 5 is gathering non-ecommerce URLs.
+2024-11-13 16:27:27,031 - INFO - Rank 5 is gathering original indices.
+2024-11-13 16:27:27,031 - INFO - Rank 4 is gathering non-ecommerce URLs.
+2024-11-13 16:27:27,031 - INFO - Rank 4 is gathering original indices.
+2024-11-13 16:27:27,643 - ERROR - Error fetching http://www.deijne.nl: 403 Client Error: Forbidden for url: https://www.deijne.nl/
+2024-11-13 16:27:28,966 - INFO - Rank 18 is gathering results.
+2024-11-13 16:27:31,386 - ERROR - Error fetching https://barbershop-lixus.business.site: 404 Client Error: Not Found for url: https://barbershop-lixus.business.site/
+2024-11-13 16:27:33,447 - INFO - Rank 14 is gathering results.
+2024-11-13 16:27:40,421 - INFO - Rank 15 is gathering results.
+2024-11-13 16:27:40,422 - INFO - Rank 15 is gathering non-ecommerce URLs.
+2024-11-13 16:27:40,422 - INFO - Rank 15 is gathering original indices.
+2024-11-13 16:27:40,422 - INFO - Rank 14 is gathering non-ecommerce URLs.
+2024-11-13 16:27:40,423 - INFO - Rank 14 is gathering original indices.
+2024-11-13 16:27:43,021 - INFO - Rank 11 is gathering results.
+2024-11-13 16:27:43,022 - INFO - Rank 11 is gathering non-ecommerce URLs.
+2024-11-13 16:27:43,022 - INFO - Rank 11 is gathering original indices.
+2024-11-13 16:27:43,022 - INFO - Rank 10 is gathering non-ecommerce URLs.
+2024-11-13 16:27:43,022 - INFO - Rank 10 is gathering original indices.
+2024-11-13 16:27:45,396 - INFO - Rank 19 is gathering results.
+2024-11-13 16:27:45,397 - INFO - Rank 19 is gathering non-ecommerce URLs.
+2024-11-13 16:27:45,397 - INFO - Rank 19 is gathering original indices.
+2024-11-13 16:27:45,397 - INFO - Rank 18 is gathering non-ecommerce URLs.
+2024-11-13 16:27:45,397 - INFO - Rank 16 is gathering non-ecommerce URLs.
+2024-11-13 16:27:45,397 - INFO - Rank 18 is gathering original indices.
+2024-11-13 16:27:45,397 - INFO - Rank 16 is gathering original indices.
+2024-11-13 16:32:41,370 - INFO - Rank 2 is gathering results.
+2024-11-13 16:32:41,371 - INFO - Rank 1 is gathering results.
+2024-11-13 16:32:41,371 - INFO - Rank 1 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,371 - INFO - Rank 1 is gathering original indices.
+2024-11-13 16:32:41,375 - INFO - Rank 3 is gathering results.
+2024-11-13 16:32:41,375 - INFO - Rank 3 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,375 - INFO - Rank 2 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,376 - INFO - Rank 3 is gathering original indices.
+2024-11-13 16:32:41,376 - INFO - Rank 2 is gathering original indices.
+2024-11-13 16:32:41,377 - INFO - Rank 4 is gathering results.
+2024-11-13 16:32:41,377 - INFO - Rank 5 is gathering results.
+2024-11-13 16:32:41,377 - INFO - Rank 6 is gathering results.
+2024-11-13 16:32:41,377 - INFO - Rank 5 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,377 - INFO - Rank 5 is gathering original indices.
+2024-11-13 16:32:41,394 - INFO - Rank 7 is gathering results.
+2024-11-13 16:32:41,394 - INFO - Rank 7 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,394 - INFO - Rank 7 is gathering original indices.
+2024-11-13 16:32:41,394 - INFO - Rank 6 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,394 - INFO - Rank 4 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,394 - INFO - Rank 6 is gathering original indices.
+2024-11-13 16:32:41,394 - INFO - Rank 4 is gathering original indices.
+2024-11-13 16:32:41,408 - INFO - Rank 8 is gathering results.
+2024-11-13 16:32:41,408 - INFO - Rank 12 is gathering results.
+2024-11-13 16:32:41,408 - INFO - Rank 10 is gathering results.
+2024-11-13 16:32:41,409 - INFO - Rank 13 is gathering results.
+2024-11-13 16:32:41,409 - INFO - Rank 9 is gathering results.
+2024-11-13 16:32:41,409 - INFO - Rank 9 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,409 - INFO - Rank 13 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,409 - INFO - Rank 9 is gathering original indices.
+2024-11-13 16:32:41,409 - INFO - Rank 13 is gathering original indices.
+2024-11-13 16:32:41,409 - INFO - Rank 11 is gathering results.
+2024-11-13 16:32:41,409 - INFO - Rank 11 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,409 - INFO - Rank 10 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,409 - INFO - Rank 10 is gathering original indices.
+2024-11-13 16:32:41,409 - INFO - Rank 11 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 16 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 0 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 18 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 14 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 19 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 17 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 15 is gathering results.
+2024-11-13 16:32:41,421 - INFO - Rank 19 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 17 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 15 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 14 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 18 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 16 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 19 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 15 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 17 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 14 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 18 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 16 is gathering original indices.
+2024-11-13 16:32:41,421 - INFO - Rank 12 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,421 - INFO - Rank 8 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,422 - INFO - Rank 12 is gathering original indices.
+2024-11-13 16:32:41,422 - INFO - Rank 8 is gathering original indices.
+2024-11-13 16:32:41,422 - INFO - Rank 0 is gathering non-ecommerce URLs.
+2024-11-13 16:32:41,422 - INFO - Rank 0 is gathering original indices.
+2024-11-13 16:32:41,422 - INFO - Flattening results.
+2024-11-13 16:32:41,422 - INFO - Ensuring unique results.
+2024-11-13 16:32:41,423 - INFO - Saving e-commerce detection results.
+2024-11-13 16:32:41,426 - INFO - Combining non-e-commerce URLs.
+2024-11-13 16:32:41,427 - INFO - Saving non-e-commerce URLs.
+2024-11-13 16:32:41,428 - INFO - Adding E-commerce Indicator column.
+2024-11-13 16:32:41,429 - INFO - Updating E-commerce Indicator for non-e-commerce URLs.
+2024-11-13 16:32:41,431 - INFO - Updating E-commerce Indicator for error URLs.
+2024-11-13 16:32:41,432 - INFO - Non-e-commerce URLs saved to 'non_ecommerce_urls_nl.csv'.

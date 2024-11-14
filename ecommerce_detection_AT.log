@@ -1,0 +1,152 @@
+2024-11-13 15:11:28,833 - ERROR - Number of chunks exceeds the threshold. Expected at most 50 units per chunk.
+2024-11-13 15:13:35,165 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:13:39,738 - ERROR - Error fetching https://www.tirol.wifi.at: HTTPSConnectionPool(host='www.tirol.wifi.at', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70d1d13521d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-11-13 15:13:39,950 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:13:40,164 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:13:40,195 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:13:41,443 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:13:50,888 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:13:56,353 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:13:59,225 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:13:59,859 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:14:00,027 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:14:00,425 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7cc6ddf51d20>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:14:00,982 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:14:08,738 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:14:10,466 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:14:13,266 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:14:18,019 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:14:19,686 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:14:24,580 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:14:27,892 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:16:22,547 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:16:24,668 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:16:25,972 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:16:26,387 - ERROR - Error fetching https://www.tirol.wifi.at: HTTPSConnectionPool(host='www.tirol.wifi.at', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e4e85775780>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-11-13 15:16:27,437 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:16:27,782 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:16:38,891 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:16:39,255 - ERROR - Error fetching https://multicycle.at: 403 Client Error: Forbidden for url: https://multicycle.at/
+2024-11-13 15:16:43,035 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:16:43,050 - ERROR - Error fetching http://www.blumenwallis.at: HTTPSConnectionPool(host='www.blumenwallis.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:16:43,104 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7e3cb1a46f20>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:16:43,522 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:16:44,479 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:16:47,968 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:16:56,091 - ERROR - Error fetching https://naokrog.com: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2024-11-13 15:16:57,085 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:16:57,496 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:17:00,532 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:17:04,943 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:17:05,985 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:17:13,562 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:19:47,824 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:19:50,832 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:19:52,337 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:19:53,087 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:19:53,563 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:19:53,623 - ERROR - Error fetching https://www.tirol.wifi.at: HTTPSConnectionPool(host='www.tirol.wifi.at', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6f047d690>: Failed to establish a new connection: [Errno 113] No route to host'))
+2024-11-13 15:20:05,321 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:20:10,873 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:20:11,358 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:20:11,454 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:20:13,782 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:20:13,974 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:20:15,952 - ERROR - Error fetching http://www.blumenwallis.at: HTTPSConnectionPool(host='www.blumenwallis.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:20:16,107 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x711745026fb0>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:20:23,339 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:20:24,514 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:20:27,807 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:20:30,682 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:20:34,901 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:20:42,708 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:20:43,499 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:23:38,833 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:23:42,243 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:23:42,834 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:23:43,732 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:23:56,600 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:24:00,074 - ERROR - Error fetching https://www.elektro-krobath.at: 502 Server Error: Bad Gateway for url: https://www.elektro-krobath.at/
+2024-11-13 15:24:00,956 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:24:03,292 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:24:03,614 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:24:03,641 - ERROR - Error fetching http://www.blumenwallis.at: HTTPSConnectionPool(host='www.blumenwallis.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:24:03,706 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x76d87f22ad40>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:24:05,605 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:24:07,797 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:24:20,239 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:24:20,332 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:24:20,851 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:24:27,623 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:24:31,237 - ERROR - Error fetching http://www.novakoeflach.at: 502 Server Error: Bad Gateway for url: https://www.novakoeflach.at/
+2024-11-13 15:24:35,029 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:24:35,764 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:24:36,512 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:24:41,712 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:27:36,315 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:27:40,924 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:27:40,995 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:27:44,961 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:27:54,852 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:27:57,919 - ERROR - Error fetching https://multicycle.at: 403 Client Error: Forbidden for url: https://multicycle.at/
+2024-11-13 15:28:02,734 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:28:03,361 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x74b80512d960>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:28:07,011 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:28:07,269 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:28:08,775 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:28:12,375 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:28:12,446 - ERROR - Error fetching http://www.strandbarherrmann.at: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x76f33e600310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 15:28:14,985 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:28:17,200 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:28:29,589 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:28:30,960 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:28:33,402 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:28:40,146 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:28:44,660 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:28:46,463 - ERROR - Error fetching http://www.elektro-kavalirek.at: 502 Server Error: Bad Gateway for url: https://www.elektro-kavalirek.at/
+2024-11-13 15:29:44,852 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:29:48,384 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:29:50,068 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:29:51,217 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:29:52,604 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:29:56,307 - ERROR - Error fetching http://www.strandbarherrmann.at: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dbd6f70c370>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 15:30:08,014 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:30:14,561 - ERROR - Error fetching http://www.blumenwallis.at: HTTPSConnectionPool(host='www.blumenwallis.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:30:14,627 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x71aa78f46b60>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:30:17,944 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:30:19,495 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:30:22,374 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:30:27,402 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:30:30,326 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:30:31,801 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:30:36,519 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:30:45,967 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:30:47,652 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:30:48,054 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:30:52,135 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
+2024-11-13 15:31:05,286 - ERROR - Error fetching http://www.elektro-kavalirek.at: 502 Server Error: Bad Gateway for url: https://www.elektro-kavalirek.at/
+2024-11-13 15:31:21,528 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:34:32,935 - ERROR - Error fetching http://www.photoshop.at: 403 Client Error: Forbidden for url: http://www.photoshop.at/
+2024-11-13 15:34:36,036 - ERROR - Error fetching http://www.jantscha.com: 404 Client Error: Not Found for url: http://www.jantscha.com/
+2024-11-13 15:34:37,120 - ERROR - Error fetching http://www.taurus-pc.at: 404 Client Error: Not Found for url: http://www.taurus-pc.at/
+2024-11-13 15:34:39,358 - ERROR - Error fetching http://www.weinhof-knoebl.at: 403 Client Error: Forbidden for url: https://www.weinhof-knoebl.at/
+2024-11-13 15:34:45,244 - ERROR - Error fetching https://telfs.sonnenreigen.com: 403 Client Error: Forbidden for url: https://telfs.sonnenreigen.com/
+2024-11-13 15:34:51,376 - ERROR - Error fetching http://www.strandbarherrmann.at: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x77584e800100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-11-13 15:34:53,771 - ERROR - Error fetching https://multicycle.at: 403 Client Error: Forbidden for url: https://multicycle.at/
+2024-11-13 15:34:58,829 - ERROR - Error fetching https://haepinest.at: 403 Client Error: Forbidden for url: https://haepinest.at/
+2024-11-13 15:35:00,027 - ERROR - Error fetching https://www.alpenadria-wp.at: 403 Client Error: Forbidden for url: https://www.alpenadria-wp.at/
+2024-11-13 15:35:00,340 - ERROR - Error fetching http://www.blumenwallis.at: HTTPSConnectionPool(host='www.blumenwallis.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+2024-11-13 15:35:00,392 - ERROR - Error fetching http://www.halleluja-medien.at: HTTPConnectionPool(host='www.halleluja-medien.at', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7e42d764ee30>: Failed to resolve 'www.halleluja-medien.at' ([Errno -2] Name or service not known)"))
+2024-11-13 15:35:01,980 - ERROR - Error fetching http://weiland.at: 404 Client Error: Not Found for url: http://www.weiland.at/
+2024-11-13 15:35:03,463 - ERROR - Error fetching https://kufstein.sonnenreigen.com: 403 Client Error: Forbidden for url: https://kufstein.sonnenreigen.com/
+2024-11-13 15:35:07,163 - ERROR - Error fetching https://www.mietwagen-plank.at: 502 Server Error: Bad Gateway for url: https://www.mietwagen-plank.at/
+2024-11-13 15:35:18,512 - ERROR - Error fetching https://www.action.com: 403 Client Error: Forbidden for url: https://www.action.com/
+2024-11-13 15:35:18,580 - ERROR - Error fetching http://www.novakoeflach.at: 404 Client Error: Not Found for url: https://www.novakoeflach.at/
+2024-11-13 15:35:23,211 - ERROR - Error fetching http://www.schlafzeit.at: 403 Client Error: Forbidden for url: http://www.schlafzeit.at/
+2024-11-13 15:35:28,575 - ERROR - Error fetching https://www.malerbetrieb-url.at: 403 Client Error: Forbidden for url: https://www.malerbetrieb-url.at/
+2024-11-13 15:35:30,797 - ERROR - Error fetching http://www.gasthofjagerwirt.at: 500 Server Error: Internal Server Error for url: http://www.gasthofjagerwirt.at/
+2024-11-13 15:35:31,082 - ERROR - Error fetching http://www.koman.at: 403 Client Error: Forbidden for url: http://www.koman.at/
+2024-11-13 15:35:38,718 - ERROR - Error fetching http://www.valentin-farben.at: 403 Client Error: Forbidden for url: https://www.valentin-farben.at/
+2024-11-13 15:35:43,518 - ERROR - Error fetching https://www.wko.at: 403 Client Error: Forbidden for url: https://www.wko.at/
+2024-11-13 15:35:53,713 - ERROR - Error fetching http://www.pension-winter.at: 403 Client Error: Forbidden for url: https://www.pension-winter.at/
+2024-11-13 15:36:11,129 - ERROR - Error fetching https://www.freds-malerei.at: 403 Client Error: Forbidden for url: https://www.freds-malerei.at/
