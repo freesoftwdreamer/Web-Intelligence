@@ -2,7 +2,7 @@ python3 -m venv hackthon
 source hackthon/bin/activate
 pip -r install requirements.txt
 # Before running Divide.py remove DEinput.csv, PLinput.csv,  ATinput.csv, NLinput.csv
-# First extract the four data sets using the program Divide.py
+# First extract the four datasets using the program Divide.py
 
 # second run GETRIDOFBARBERS_DEDATASET.py GETRIDOFBARBERS_ATDATASET.py GETRIDOFBARBERS_NLDATASET.py GETRIDOFBARBERS_NLDATASET.py
 # Fianlly run the four UPDATE..DATA.py
